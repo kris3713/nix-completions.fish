@@ -1,3 +1,6 @@
+# NOTE: This may no longer be needed since NixOS provides fish completions for the `nix` command
+# See: https://github.com/NixOS/nix/blob/master/misc/fish/completion.fish
+
 # second and ONLY second arg must be one of these
 function __nix_complete_profile --description 'Complete nix profile commands'
     if ! __fish_seen_subcommand_from "profile"
