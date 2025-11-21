@@ -64,7 +64,7 @@ Many descriptions are ported from [ZSH Completions for Nix](https://github.com/n
   ```
 
   You can then use this in your **home-manager** configuration or **NixOS** configuration
-  if you are managing you fish installation with either of those.
+  if you are managing your fish installation with either of those.
 
 
   <details>
